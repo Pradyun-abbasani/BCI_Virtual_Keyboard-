@@ -27,6 +27,11 @@ This project implements a **Brain-Computer Interface (BCI) Virtual Keyboard** th
 4. **Real-Time Prediction**: The trained model predicts the alphabet from test data.
 5. **GUI Display**: Predictions are visualized through a virtual keyboard.
 
+
+## Download EEG Datasets
+You can download  EEG datasets from the following link:
+- https://drive.google.com/drive/folders/1bPkUAXfaNIASRYOV8dfZ4E5meMvylhy_?usp=drive_link
+ 
 ## Future Enhancements
 - Add support for numbers and symbols.
 - Improve prediction accuracy and real-time performance.
